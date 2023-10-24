@@ -20,4 +20,9 @@ public class TestScript : MonoBehaviour
     {
 
     }
+
+    private void MyNewFunction1()
+    {
+
+    }
 }
