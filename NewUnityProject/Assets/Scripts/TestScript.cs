@@ -16,13 +16,20 @@ public class TestScript : MonoBehaviour
         
     }
 
-    private void MyNewFunction()
+
+    public void FizzBuzz()
     {
 
     }
 
     private void MyNewFunction1()
     {
+
+    }
+
+    private void MyNewFunction()
+    {
+
 
     }
 }
