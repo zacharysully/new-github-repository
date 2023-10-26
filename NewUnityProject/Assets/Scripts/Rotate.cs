@@ -21,8 +21,7 @@ public class Rotate : MonoBehaviour
 
         if (Input.GetKey(KeyCode.W))
         {
-            //transform.forward is the forward direction of an object based on where it's facing
-            transform.position += transform.forward * Time.deltaTime * 5f;
+            transform.position += transform.forward * 5 * Time.deltaTime;
         }
     }
 }
