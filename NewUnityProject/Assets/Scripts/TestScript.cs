@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class TestScript : MonoBehaviour
 {
+    public float jumpForce;
     public float speed;
     public bool isGrounded;
     // Start is called before the first frame update
