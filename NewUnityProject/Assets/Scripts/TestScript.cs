@@ -8,6 +8,9 @@ public class TestScript : MonoBehaviour
     public float jumpForce;
     public float speed;
     public bool isGrounded;
+
+    public bool jeffsBool;
+
     // Start is called before the first frame update
     void Start()
     {
